@@ -1,4 +1,4 @@
-#Git nuestro
+#Git nuestro de todos los días
 
 *Git* nuestro que estas en los repos
 
